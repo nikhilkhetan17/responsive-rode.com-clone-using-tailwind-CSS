@@ -2,7 +2,7 @@
 
 <br>
 
-## 📌 Live Site URL: <a href="https://rodeclonetailwind.netlify.app/">**Visit Now**</a>
+## 📌 Live Site URL: <a href="https://responsive-rode-com-clone-using-tailwind-css.vercel.app/">**Visit Now**</a>
 
 <br>
 
